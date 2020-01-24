@@ -8,4 +8,4 @@ To Install:
 >> yarn install
 To run in two consoles: 
 >> yarn run server
->> yarn run build-babel
+>> yarn run build
