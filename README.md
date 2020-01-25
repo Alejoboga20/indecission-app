@@ -4,8 +4,8 @@ Remover Dependencias:
 >> yarn remove babel-cli live-server 
 >> npm uninstall -g babel-cli live-server
 Prerequisites: Node JS
-To Install: 
+To Install:
 >> yarn install
-To run in two consoles: 
+To run in two consoles:
 >> yarn run server
 >> yarn run build
