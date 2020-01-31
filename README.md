@@ -1,10 +1,11 @@
-# indecission-app
-Random Decission Maker
-Remover Dependencias: 
->> yarn remove babel-cli live-server 
->> npm uninstall -g babel-cli live-server
-Prerequisites: Node JS
-To Install:
+#**indecission-app**
+
+##**Random Decission Maker**
+
+###Prerequisites: Node JS >10.x Version
+###To Install:
 >> yarn install
-To run in two consoles:
+###To Run:
 >> yarn run dev-server
+
+Visit localhost:8080
