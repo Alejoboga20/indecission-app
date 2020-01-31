@@ -1,14 +1,14 @@
-#indecission-app
+# indecission-app
 
-##Random Decission Maker
+## Random Decission Maker
 
-###Prerequisites: Node JS >10.x Version
+### Prerequisites: Node JS >10.x Version
 
-###To Install:
+### To Install:
 
 >> yarn install
 
-###To Run:
+### To Run:
 
 >> yarn run dev-server
 
